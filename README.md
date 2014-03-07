@@ -1,4 +1,4 @@
-# Recursive Loader
+# Recursive Loader [![Build Status](https://secure.travis-ci.org/floriangosse/recursive-loader.png?branch=master)](http://travis-ci.org/floriangosse/recursive-loader)
 
 > Load modules recursive and save them in an object.
 
