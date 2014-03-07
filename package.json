@@ -1,0 +1,41 @@
+{
+  "name": "recursive-loader",
+  "version": "0.0.1",
+  "main": "lib/recursive-loader.js",
+  "description": "Load modules recursive and save them in an object.",
+  "homepage": "https://github.com/floriangosse/recursive-loader",
+  "bugs": "https://github.com/floriangosse/recursive-loader/issues",
+  "author": {
+    "name": "Florian Goße",
+    "email": "florian@essog.de"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/floriangosse/recursive-loader.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "keywords": [
+    "module",
+    "loader",
+    "recursive"
+  ],
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.7.0",
+    "grunt-contrib-watch": "~0.5.0",
+    "jshint-stylish": "~0.1.3",
+    "grunt-contrib-nodeunit": "~0.3.2",
+    "grunt": "~0.4.2",
+    "time-grunt": "~0.2.10",
+    "load-grunt-tasks": "~0.4.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "string": "~1.8.0"
+  }
+}
