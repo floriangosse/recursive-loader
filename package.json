@@ -1,6 +1,6 @@
 {
   "name": "recursive-loader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "lib/recursive-loader.js",
   "description": "Load modules recursive and save them in an object.",
   "homepage": "https://github.com/floriangosse/recursive-loader",
